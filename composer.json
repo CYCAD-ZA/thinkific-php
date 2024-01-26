@@ -10,7 +10,8 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.2",
-        "firebase/php-jwt": "^6.1"
+        "firebase/php-jwt": "^6.1",
+        "cycad-za/thinkific-php": "dev-master"
     },
     "autoload": {
         "psr-4": {"Thinkific\\": "src/Thinkific"}
