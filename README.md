@@ -10,7 +10,7 @@ The Thinkific PHP API client can be installed using [Composer](https://packagist
 
 ### Composer
 
-To install run `composer require graphem/thinkific-php`
+To install run `composer require CYCAD-ZA/thinkific-php`
 
 ## Configuration
 

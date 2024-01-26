@@ -1,5 +1,5 @@
 {
-    "name": "graphem/thinkific-php",
+    "name": "CYCAD-ZA/thinkific-php",
     "description": "Simple PHP library for Thinkific API",
     "license": "MIT",
     "authors": [
@@ -14,5 +14,11 @@
     },
     "autoload": {
         "psr-4": {"Thinkific\\": "src/Thinkific"}
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/CYCAD-ZA/thinkific-php"
+        }
+    ]
 }
